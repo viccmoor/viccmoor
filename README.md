@@ -21,6 +21,9 @@
     <a href="https://typescriptlang.org/" target="_blank" style="text-decoration: none;"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="display: inline-block; vertical-align: middle;"/> 
     </a> 
+    <a href="https://learn.microsoft.com/en-us/cpp/" target="_blank" style="text-decoration: none;"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="display: inline-block; vertical-align: middle;"/> 
+    </a>
     <a href="https://nodejs.org/en/" target="_blank" style="text-decoration: none;"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="display: inline-block; vertical-align: middle;"/> 
     </a>
