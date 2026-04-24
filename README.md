@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">Technologies I work with</h3>
-<p align="center"> 
+<p align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 4px"> 
     <a href="https://html.spec.whatwg.org/" target="_blank" style="text-decoration: none;"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" style="display: inline-block; vertical-align: middle;"/> 
     </a>
